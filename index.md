@@ -61,7 +61,7 @@ Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ing
 ---
 ## M1 ISIFAR: Statistical and Computer Engineering for Finance, Insurance, and Risk
 
-Ma mise en œuvre complète des devoirs et des projets pour le [M1 ISIFAR: Statistical and Computer Engineering for Finance, Insurance, and Risk]([https://isup.sorbonne universite.fr/formations/filiere-ingenierie-statistique-et-data-science-isds](https://master.math.univ-paris-diderot.fr/annee/m1-isifar/)) par Université Paris Cité (2021-2022).
+Ma mise en œuvre complète des devoirs et des projets pour le [***M1 ISIFAR: Statistical and Computer Engineering for Finance, Insurance, and Risk***](https://master.math.univ-paris-diderot.fr/annee/m1-isifar/)) par Université Paris Cité (2021-2022).
 
 ---
 
