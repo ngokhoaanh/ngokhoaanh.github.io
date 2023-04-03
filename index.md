@@ -11,9 +11,9 @@ Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ing
 
 <div style="text-align: justify">To introduce the project, let's start with a small presentation of the framework, the data we have and the variables that compose our database. Then we will do a small visualization of the data and a study of their correlation in order to better understand the links between the variables. Then we will try a clustering (unsupervised learning) of K-means type to see if we can identify groups in our data. And finally, we will start on the training part of the different classifiers (Decision Tree, Logistic Regression, Random Forest, MLP, SVM, QDA, LightGBM, Gradient Boosting and Neural Network) before concluding on the choice that we will make here for our problem.</div>
 
-
+<br>
 <center><img src="images/diabetes.png"/></center>
-
+<br>
 ---
 ### Time series: Wikipedia Traffic Forecast
 
