@@ -61,6 +61,20 @@ Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ing
 <center><img src="images/controle.png"/></center>
 <br>
 
+---
+
+### Latent structure models
+
+#### Kmeans and Hierarchical Ascending Classification
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+
+<div style="text-align: justify">Objective of this project is to warn against an overly systematic or blind application of PCA in a clustering study, and to explore and compare the behavior of Kmeans and ascending hierarchical clustering.</div>
+
+<br>
+<center><img src="images/diabetes.png"/></center>
+<br>
+
 
 ---
 ## M1 ISIFAR: Statistical and Computer Engineering for Finance, Insurance, and Risk
