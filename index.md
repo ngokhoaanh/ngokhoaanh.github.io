@@ -84,7 +84,7 @@ Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ing
 <div style="text-align: justify">Objective of this project is first to explore the behavior of the EM in the context of a simple Gaussian mixture model at $a=2$ components in dimension 1
   
 $$
-  M = \sum_{j=1}^J \pi_j \phi(\cdot; \mu_j, \sigma_j^2) : (\pi_1, \ldots, \pi_J) \in \Pi_J, \mu_1, \ldots, \mu_J \in \mathbb{R}, \sigma_1^2, \ldots, \sigma_J^2 \in \mathbb{R}_{+}^{*}
+  M = {\sum_{j=1}^J \pi_j \phi(\cdot; \mu_j, \sigma_j^2) : (\pi_1, \ldots, \pi_J) \in \Pi_J, \mu_1, \ldots, \mu_J \in \mathbb{R}, \sigma_1^2, \ldots, \sigma_J^2 \in \mathbb{R}_{+}^{*}}
 $$
   
   
