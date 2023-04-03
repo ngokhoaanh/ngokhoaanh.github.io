@@ -58,7 +58,7 @@ Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ing
 
 <div style="text-align: justify">Using statistical methods, adequacy tests, and constructing control charts such as CUSUM and EWMA to detect the moment of rupture and the false alarm rate. The results help processes, such as manufacturing, ensure that the procedures will produce more specification-conforming products, thereby creating less waste.</div>
 <br>
-<center><img src="images/detect-spam-nlp.png"/></center>
+<center><img src="images/controle.png"/></center>
 <br>
 
 
