@@ -1,35 +1,27 @@
 # Portfolio
 ---
-## Natural Language Processing
+## M2 ISDS - ISUP 
 
-### CS224n: Natural Language Processing with Deep Learning
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
-
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
-
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
-<center><img src="images/nlp.png"/></center>
-
+Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ingénieur Statistique et Data Science***](https://isup.sorbonne universite.fr/formations/filiere-ingenierie-statistique-et-data-science-isds) par Sorbonne University (2022-2023).
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### Machine Learning: Diabetes classification
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+<div style="text-align: justify">To introduce the project, let's start with a small presentation of the framework, the data we have and the variables that compose our database. Then we will do a small visualization of the data and a study of their correlation in order to better understand the links between the variables. Then we will try a clustering (unsupervised learning) of K-means type to see if we can identify groups in our data. And finally, we will start on the training part of the different classifiers (in three steps: parametric, nonparametric and deep learning) before concluding on the choice that we will make here for our problem.
+
+Translated with www.DeepL.com/Translator (free version)</div>
 
 <center><img src="images/BERT-classification.png"/></center>
 
 ---
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+### Time series: Wikipedia Traffic Forecast
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
 
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
+<div style="text-align: justify">Predicting Wikipedia page traffic is a useful task for understanding how users interact with the platform and for optimizing the performance and availability of Wikipedia servers. In this project, we aim to predict Wikipedia page traffic using three different machine learning models: ARIMA, XGBoost, and Random Forest.</div>
 <br>
 <center><img src="images/fb-food-trends.png"></center>
 <br>
