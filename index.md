@@ -14,6 +14,8 @@ Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ing
 <br>
 <center><img src="images/diabetes.png"/></center>
 <br>
+
+
 ---
 ### Time series: Wikipedia Traffic Forecast
 
