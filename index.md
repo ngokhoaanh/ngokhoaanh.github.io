@@ -81,7 +81,8 @@ Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ing
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
 
-<div style="text-align: justify">Objective of this project is first to explore the behavior of the EM in the context of a simple Gaussian mixture model at $J \in \mathbb{N}^{*}$ components in dimension 1
+<div style="text-align: justify">Objective of this project is first to explore the behavior of the EM in the context of a simple Gaussian mixture model at
+  $J\in\mathbb{N}^{*}$ components in dimension 1
   
 $$
   M = \{ \sum_{j=1}^J \pi_j \phi(\cdot; \mu_j, \sigma_j^2) : (\pi_1, \ldots, \pi_J) \in \Pi_J, \mu_1, \ldots, \mu_J \in \mathbb{R}, \sigma_1^2, \ldots, \sigma_J^2 \in \mathbb{R}_{+}^{*} \}
@@ -96,7 +97,7 @@ It is then to initiate the model-based clustering in higher dimension with the R
 </div>
 
 <br>
-<center><img src="images/latent1.png"/></center>
+<center><img src="images/latent2.png"/></center>
 <br>
 
 
