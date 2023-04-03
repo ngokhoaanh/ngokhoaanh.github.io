@@ -35,7 +35,7 @@ Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ing
 
 <div style="text-align: justify">We have a real-life case study in the industry statistics research on floods, water flow, and economic models to determine the appropriate height of the embankment for minimizing potential risks. To solve this problem, we have three research directions: "Determining the height of the embankment based on historical measurement records, determining the height of the embankment based on the hydraulic model, and determining the height of the embankment based on the economic model."</div>
 <br>
-<center><img src="images/fb-food-trends.png"></center>
+<center><img src="images/fiabilite.png"></center>
 <br>
 
 ---
