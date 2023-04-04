@@ -135,7 +135,7 @@ Ma mise en œuvre complète des devoirs et des projets pour le [***M1 ISIFAR: St
 
 <div style="text-align: justify">A classical problem in finance is to determine the investment strategy that achieves the best performance over some time horizon given a set of traded assets. This project investigates some of the most important aspects of discrete-time portfolio optimization. We consider three of the main criteria and discuss the dynamic programming method and the martingale method as potential solution methods. We provide explicit examples for both the alogarithmic utility function and the full binomial case.</div>
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/optimization.png"/></center>
 <br>
 
 ---
@@ -146,7 +146,7 @@ Ma mise en œuvre complète des devoirs et des projets pour le [***M1 ISIFAR: St
 
 <div style="text-align: justify">Collaborating with various tables (such as data.frames, tibbles, data.tables, etc.) utilizing dplyr or other query languages (as exemplified by data.table). Visualizing demographic data supplied by the Human Mortality Database organization (https://www.mortality.org). Employing PCA and other matrix-oriented techniques to investigate multivariate datasets (with lifetables considered as multivariate datasets). Applying the Lee-Carter model for predicting mortality quotients.</div>
 <br>
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/life.gif"/></center>
 <br>
 
 ---
