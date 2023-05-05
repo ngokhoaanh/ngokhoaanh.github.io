@@ -67,7 +67,7 @@ Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ing
 
 #### Kmeans and Hierarchical Ascending Classification
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/MSLTP1.html)
 
 <div style="text-align: justify">Objective of this project is to warn against an overly systematic or blind application of PCA in a clustering study, and to explore and compare the behavior of Kmeans and ascending hierarchical clustering.</div>
 
@@ -79,7 +79,7 @@ Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ing
 
 #### Mixing models, Model-Based Clustering, EM algorithm
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/MSLTP2.html)
 
 <div style="text-align: justify">Objective of this project is first to explore the behavior of the EM in the context of a simple Gaussian mixture model at J components in dimension 1
   
@@ -103,7 +103,7 @@ It is then to initiate the model-based clustering in higher dimension with the R
 
 #### Bayesian methods, Markov Chain Monte Carlo(MCMC)
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/MSLTP3.html)
 
 <div style="text-align: justify">This project is an introduction to Bayesian methods in the context of Gaussian mixture models models, and in particular to the Gibbs sampler and the Metropolis-Hastings algorithm. We are interested in the following mixture model:
 
