@@ -19,8 +19,8 @@ Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ing
 ---
 ### Time series: Wikipedia Traffic Forecast
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Projet_Stat_Prevision.html)
+
 
 <div style="text-align: justify">Predicting Wikipedia page traffic is a useful task for understanding how users interact with the platform and for optimizing the performance and availability of Wikipedia servers. In this project, we aim to predict Wikipedia page traffic using three different machine learning models: ARIMA, XGBoost, and Random Forest.</div>
 <br>
