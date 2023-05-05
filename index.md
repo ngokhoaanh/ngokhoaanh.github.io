@@ -129,7 +129,7 @@ Ma mise en œuvre complète des devoirs et des projets pour le [***M1 ISIFAR: St
 
 ### Asset Allocation and Portfolio Optimisation
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Rapport_projet.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Rapport_projet.pdf)
 
 <div style="text-align: justify">A classical problem in finance is to determine the investment strategy that achieves the best performance over some time horizon given a set of traded assets. This project investigates some of the most important aspects of discrete-time portfolio optimization. We consider three of the main criteria and discuss the dynamic programming method and the martingale method as potential solution methods. We provide explicit examples for both the alogarithmic utility function and the full binomial case.</div>
 <br>
