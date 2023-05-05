@@ -129,9 +129,7 @@ Ma mise en œuvre complète des devoirs et des projets pour le [***M1 ISIFAR: St
 
 ### Asset Allocation and Portfolio Optimisation
 
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Rapport_projet.html)
 
 <div style="text-align: justify">A classical problem in finance is to determine the investment strategy that achieves the best performance over some time horizon given a set of traded assets. This project investigates some of the most important aspects of discrete-time portfolio optimization. We consider three of the main criteria and discuss the dynamic programming method and the martingale method as potential solution methods. We provide explicit examples for both the alogarithmic utility function and the full binomial case.</div>
 <br>
