@@ -30,8 +30,8 @@ Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ing
 ---
 ### Industrial statistics
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Rapport_Stats_indus_Remy.pdf)
+
 
 <div style="text-align: justify">We have a real-life case study in the industry statistics research on floods, water flow, and economic models to determine the appropriate height of the embankment for minimizing potential risks. To solve this problem, we have three research directions: "Determining the height of the embankment based on historical measurement records, determining the height of the embankment based on the hydraulic model, and determining the height of the embankment based on the economic model."</div>
 <br>
