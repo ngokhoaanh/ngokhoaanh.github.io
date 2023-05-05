@@ -53,8 +53,8 @@ Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ing
 ---
 ### Statistical Quality Control
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Projet_CQ.pdf)
+
 
 <div style="text-align: justify">Using statistical methods, adequacy tests, and constructing control charts such as CUSUM and EWMA to detect the moment of rupture and the false alarm rate. The results help processes, such as manufacturing, ensure that the procedures will produce more specification-conforming products, thereby creating less waste.</div>
 <br>
