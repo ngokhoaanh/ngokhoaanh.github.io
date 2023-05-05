@@ -141,8 +141,8 @@ Ma mise en œuvre complète des devoirs et des projets pour le [***M1 ISIFAR: St
 ---
 ### SVD Analysis & Life Tables
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Projet--COMPLET-.html)
+
 
 <div style="text-align: justify">Collaborating with various tables (such as data.frames, tibbles, data.tables, etc.) utilizing dplyr or other query languages (as exemplified by data.table). Visualizing demographic data supplied by the Human Mortality Database organization (https://www.mortality.org). Employing PCA and other matrix-oriented techniques to investigate multivariate datasets (with lifetables considered as multivariate datasets). Applying the Lee-Carter model for predicting mortality quotients.</div>
 <br>
