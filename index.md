@@ -119,7 +119,7 @@ $$
   
   
 $$
-  \text{and } \Pi_J = \{(\pi_1, \ldots, \pi_J) \in [0, 1]^J : \sum_{j=1}^J \pi_j = 1\} \text{ and } \phi(\cdot; \mu, \sigma^2) \newline \text{ the Gaussian density of expectancy } \mu \text{ and variance } \sigma^2
+  \text{and } \Pi_J = \{(\pi_1, \ldots, \pi_J) \in [0, 1]^J : \sum_{j=1}^J \pi_j = 1\} \text{ and } \phi(\cdot; \mu, \sigma^2) \text{ the Gaussian density of expectancy } \mu \text{ and variance } \sigma^2
 $$
   
 It is then to initiate the model-based clustering in higher dimension with the Rmixmod package, which allows to fit mixing models.
