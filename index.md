@@ -9,7 +9,13 @@ Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ing
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/NGO_LAFFINEUR.html)
 
-<div style="text-align: justify">To introduce the project, let's start with a small presentation of the framework, the data we have and the variables that compose our database. Then we will do a small visualization of the data and a study of their correlation in order to better understand the links between the variables. Then we will try a clustering (unsupervised learning) of K-means type to see if we can identify groups in our data. And finally, we will start on the training part of the different classifiers (Decision Tree, Logistic Regression, Random Forest, MLP, SVM, QDA, LightGBM, Gradient Boosting and Neural Network) before concluding on the choice that we will make here for our problem.</div>
+<div style="text-align: justify">In this exciting project, we embark on a journey through the intricacies of diabetes classification using Machine Learning. We kick-off by delving into a detailed exploration of the project framework, the nature of the data at our disposal, and the variables that make up our database.
+
+Our examination is accompanied by an in-depth data visualization and a study of their correlation. The goal is to unravel the subtle links between variables, understand their interactions, and identify potential patterns.
+
+Next, we venture into the realm of unsupervised learning, using a K-means type clustering approach. Our aim will be to determine whether we can distinguish distinct groups within our data, thereby offering new perspectives for our analysis.
+
+Finally, we dive into the heart of the matter, the training of various classifiers. We will compare and evaluate a variety of algorithms, including Decision Tree, Logistic Regression, Random Forest, MLP, SVM, QDA, LightGBM, Gradient Boosting, and Neural Network. Our ultimate goal is to select the best-performing model for our problem while learning and discovering along the way.</div>
 
 <br>
 <center><img src="images/diabetes.png"/></center>
@@ -22,7 +28,15 @@ Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ing
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Projet_Stat_Prevision.html)
 
 
-<div style="text-align: justify">Predicting Wikipedia page traffic is a useful task for understanding how users interact with the platform and for optimizing the performance and availability of Wikipedia servers. In this project, we aim to predict Wikipedia page traffic using three different machine learning models: ARIMA, XGBoost, and Random Forest.</div>
+<div style="text-align: justify">In this riveting project, we delve deep into the realms of user interaction and server performance optimization by predicting Wikipedia page traffic. Understanding this traffic not only provides insights into user behaviour on the platform but also aids in enhancing the performance and availability of Wikipedia's servers, making this task an invaluable one.
+
+Our aim is to accurately predict Wikipedia page traffic using a trio of diverse machine learning models. Each model adds a unique dimension to our predictive abilities:
+
+The ARIMA model, with its emphasis on autocorrelation, allows us to harness the power of time-series data for more accurate predictions.
+XGBoost, a decision-tree-based ensemble Machine Learning algorithm, aids us in capturing complex non-linear relationships within the data.
+Finally, the Random Forest algorithm, with its multitude of decision trees, offers an additional layer of predictive precision.
+
+This project offers a deep dive into these machine learning models, demonstrating their unique strengths and how their combined use can improve the precision of our traffic predictions.</div>
 <br>
 <center><img src="images/wikipedia.png"></center>
 <br>
@@ -33,7 +47,17 @@ Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ing
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Rapport_Stats_indus_Remy.pdf)
 
 
-<div style="text-align: justify">We have a real-life case study in the industry statistics research on floods, water flow, and economic models to determine the appropriate height of the embankment for minimizing potential risks. To solve this problem, we have three research directions: "Determining the height of the embankment based on historical measurement records, determining the height of the embankment based on the hydraulic model, and determining the height of the embankment based on the economic model."</div>
+<div style="text-align: justify">In this engaging project, we navigate the intersections of industrial statistics, environmental science, and economics to address a real-world challenge. The study focuses on flood management, specifically the determination of optimal embankment heights to minimize potential risks.
+
+Our data originates from real-life scenarios, harnessing research on floods, water flow, and economic models. The objective is to calculate the most suitable embankment height, balancing the need for flood protection and economic feasibility.
+
+We approach the problem from three distinct research directions, each providing a unique lens to interpret the data and inform the solution:
+
+Historical Measurement-Based Approach: This approach utilizes historical measurement records to determine the embankment height, capitalizing on past data to inform future flood management strategies.
+Hydraulic Model-Based Approach: This approach uses hydraulic models to forecast water flow patterns and flood likelihood, facilitating the identification of the optimal embankment height from an engineering perspective.
+Economic Model-Based Approach: In this approach, we integrate economic models to analyze the costs associated with different embankment heights, aligning flood protection measures with economic realities.
+
+By traversing these three research paths, we aim to converge on a solution that considers multiple factors, thus ensuring a robust and comprehensive resolution to the challenge at hand.</div>
 <br>
 <center><img src="images/fiabilite.png"></center>
 <br>
@@ -54,7 +78,13 @@ Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ing
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Projet_CQ.pdf)
 
 
-<div style="text-align: justify">Using statistical methods, adequacy tests, and constructing control charts such as CUSUM and EWMA to detect the moment of rupture and the false alarm rate. The results help processes, such as manufacturing, ensure that the procedures will produce more specification-conforming products, thereby creating less waste.</div>
+<div style="text-align: justify">In this project, we delve into the world of manufacturing with a focus on improving process efficiency through statistical quality control. The objective is to employ robust statistical methods and adequacy tests, thus ensuring processes are streamlined, waste is minimized, and a higher proportion of specification-conforming products are produced.
+
+Our approach involves the construction and utilization of control charts, including the CUSUM (Cumulative Sum Control Chart) and EWMA (Exponentially Weighted Moving Average). These powerful statistical tools allow us to precisely detect moments of rupture in the process and accurately identify false alarm rates.
+
+The CUSUM chart is particularly effective at identifying small shifts from the process target over time, while the EWMA chart is adept at detecting larger, sudden shifts. Together, they provide a comprehensive toolset for monitoring process variability and maintaining control.
+
+The results from this project not only optimize the manufacturing process but also contribute to an overall reduction in waste. The insights and techniques gleaned from this work prove invaluable in promoting more efficient, sustainable, and profitable manufacturing practices.</div>
 <br>
 <center><img src="images/controle.png"/></center>
 <br>
@@ -87,7 +117,7 @@ $$
   
   
 $$
-  \text{and } \Pi_J = \{(\pi_1, \ldots, \pi_J) \in [0, 1]^J : \sum_{j=1}^J \pi_j = 1\} \text{ and } \phi(\cdot; \mu, \sigma^2) \text{ the Gaussian density of expectancy } \mu \text{ and variance } \sigma^2
+  \text{and } \Pi_J = \{(\pi_1, \ldots, \pi_J) \in [0, 1]^J : \sum_{j=1}^J \pi_j = 1\} \text{ and } \phi(\cdot; \mu, \sigma^2) \\ \text{ the Gaussian density of expectancy } \mu \text{ and variance } \sigma^2
 $$
   
 It is then to initiate the model-based clustering in higher dimension with the Rmixmod package, which allows to fit mixing models.
@@ -129,7 +159,15 @@ Ma mise en œuvre complète des devoirs et des projets pour le [***M1 ISIFAR: St
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Rapport_projet.pdf)
 
-<div style="text-align: justify">A classical problem in finance is to determine the investment strategy that achieves the best performance over some time horizon given a set of traded assets. This project investigates some of the most important aspects of discrete-time portfolio optimization. We consider three of the main criteria and discuss the dynamic programming method and the martingale method as potential solution methods. We provide explicit examples for both the alogarithmic utility function and the full binomial case.</div>
+<div style="text-align: justify">In this project, we grapple with a classic challenge in finance: determining an investment strategy that yields optimal performance over a specified time horizon, given a set of traded assets. Our exploration takes us into the core aspects of discrete-time portfolio optimization, where the balance between risk and reward comes to the fore.
+
+We examine three of the principal criteria in portfolio optimization to provide a comprehensive view of the problem at hand. Our methodology revolves around two potent solution strategies:
+
+Dynamic Programming Method: A versatile approach that breaks down the larger problem into smaller, manageable sub-problems, thereby simplifying complex optimization tasks.
+Martingale Method: A powerful probabilistic technique, valuable in the context of investment strategies and financial forecasting.
+Further enhancing our exploration, we dive into the practicalities by providing explicit examples for both the logarithmic utility function, which captures the investor's level of risk tolerance, and the full binomial case, a method used to model the dynamics of an asset's price over time.
+
+By undertaking this project, we aim to offer profound insights into the world of finance, contributing to more efficient, optimized investment strategies and improved financial outcomes.</div>
 <br>
 <center><img src="images/optimization.png"/></center>
 <br>
@@ -140,7 +178,15 @@ Ma mise en œuvre complète des devoirs et des projets pour le [***M1 ISIFAR: St
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Projet--COMPLET-.html)
 
 
-<div style="text-align: justify">Collaborating with various tables (such as data.frames, tibbles, data.tables, etc.) utilizing dplyr or other query languages (as exemplified by data.table). Visualizing demographic data supplied by the Human Mortality Database organization (https://www.mortality.org). Employing PCA and other matrix-oriented techniques to investigate multivariate datasets (with lifetables considered as multivariate datasets). Applying the Lee-Carter model for predicting mortality quotients.</div>
+<div style="text-align: justify">In this captivating project, we embark on an exploration of demographic data and its intricate patterns using an array of powerful techniques. Our collaboration spans various data structures, including data.frames, tibbles, and data.tables, where we leverage the capabilities of dplyr and other query languages, such as data.table, to process and manipulate the data effectively.
+
+With the invaluable data provided by the esteemed Human Mortality Database organization (https://www.mortality.org), we dive into a world of demographic insights. Our focus is on visualizing and analyzing multivariate datasets, with a special emphasis on life tables as an essential component of demographic research.
+
+To unravel the underlying trends and uncover hidden patterns, we employ a range of powerful techniques, including Singular Value Decomposition (SVD) analysis and Principal Component Analysis (PCA). These matrix-oriented methods provide a comprehensive understanding of the interrelationships and variations within the data.
+
+Moreover, we delve into the application of the renowned Lee-Carter model, a widely accepted methodology for predicting mortality quotients. This model not only aids in forecasting future mortality trends but also plays a crucial role in informing public health policies and insurance industry practices.
+
+By combining statistical analysis, data manipulation, and advanced modeling techniques, this project offers profound insights into demographic dynamics, contributing to our understanding of population trends, mortality patterns, and the intricate interplay between various demographic factors.</div>
 <br>
 <center><img src="images/life.gif"/></center>
 <br>
