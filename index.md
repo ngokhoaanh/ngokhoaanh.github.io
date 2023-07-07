@@ -54,7 +54,9 @@ Our data originates from real-life scenarios, harnessing research on floods, wat
 We approach the problem from three distinct research directions, each providing a unique lens to interpret the data and inform the solution:
 
 Historical Measurement-Based Approach: This approach utilizes historical measurement records to determine the embankment height, capitalizing on past data to inform future flood management strategies.
+
 Hydraulic Model-Based Approach: This approach uses hydraulic models to forecast water flow patterns and flood likelihood, facilitating the identification of the optimal embankment height from an engineering perspective.
+
 Economic Model-Based Approach: In this approach, we integrate economic models to analyze the costs associated with different embankment heights, aligning flood protection measures with economic realities.
 
 By traversing these three research paths, we aim to converge on a solution that considers multiple factors, thus ensuring a robust and comprehensive resolution to the challenge at hand.</div>
