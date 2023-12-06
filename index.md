@@ -2,7 +2,7 @@
 ---
 ## M2 ISDS - ISUP 
 
-Ma mise en œuvre complète des devoirs et des projets pour le  [***M2 ISDS: Ingénieur Statistique et Data Science***](https://isup.sorbonne universite.fr/formations/filiere-ingenierie-statistique-et-data-science-isds) par Sorbonne University (2022-2023).
+Complete projects for the  [***M2 ISDS: Ingénieur Statistique et Data Science***](https://isup.sorbonne universite.fr/formations/filiere-ingenierie-statistique-et-data-science-isds) at Sorbonne University (2022-2023).
 
 ---
 ### Machine Learning: Diabetes classification
@@ -153,7 +153,7 @@ The prior distribution of $(\mu_1, \mu_2)$ is given by: $\mu_1 \sim \mathcal{N}(
 ---
 ## M1 ISIFAR: Statistical and Computer Engineering for Finance, Insurance, and Risk
 
-Ma mise en œuvre complète des devoirs et des projets pour le [***M1 ISIFAR: Statistical and Computer Engineering for Finance, Insurance, and Risk***](https://master.math.univ-paris-diderot.fr/annee/m1-isifar/)) par Université Paris Cité (2021-2022).
+Complete projects for the [***M1 ISIFAR: Statistical and Computer Engineering for Finance, Insurance, and Risk***](https://master.math.univ-paris-diderot.fr/annee/m1-isifar/)) at Université de Paris (2021-2022).
 
 ---
 
