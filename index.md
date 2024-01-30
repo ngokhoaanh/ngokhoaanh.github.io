@@ -34,7 +34,6 @@ The project is not only a pursuit of the optimal classification model but also a
 ***ARIMA Model***: Specializing in autocorrelation, the ARIMA model leverages time-series data, enabling us to make more nuanced predictions.
 ***XGBoost***: As a decision-tree-based ensemble machine learning algorithm, XGBoost excels in identifying complex, non-linear patterns within the data.
 ***Random Forest Algorithm***: Comprising multiple decision trees, this model adds an extra dimension of accuracy to our predictions.
-
 This study provides an in-depth exploration of these machine learning models. We will demonstrate their individual capabilities and how their integrated application can significantly enhance the accuracy of traffic forecasting on Wikipedia.</div>
 <br>
 <center><img src="images/wikipedia.png"></center>
@@ -46,19 +45,15 @@ This study provides an in-depth exploration of these machine learning models. We
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Rapport_Stats_indus_Remy.pdf)
 
 
-<div style="text-align: justify">In this engaging project, we navigate the intersections of industrial statistics, environmental science, and economics to address a real-world challenge. The study focuses on flood management, specifically the determination of optimal embankment heights to minimize potential risks.
+<div style="text-align: justify">This project represents a comprehensive exploration at the nexus of industrial statistics, environmental science, and economics, targeting a pragmatic challenge in flood management. Our focus is on determining the optimal embankment heights to mitigate flood risks effectively. The foundation of our study is a robust dataset derived from real-world flood events, water flow dynamics, and economic impact assessments. The goal is to ascertain the most appropriate embankment height that not only offers adequate flood defense but also maintains economic viability. We adopt a three methodological approach, each offering a distinct perspective to analyze the data and shape our conclusions:
 
-Our data originates from real-life scenarios, harnessing research on floods, water flow, and economic models. The objective is to calculate the most suitable embankment height, balancing the need for flood protection and economic feasibility.
+***Historical Measurement-Based Approach***: Leveraging historical flood data, this approach aims to utilize past measurement records as a guide for future embankment design, providing a practical, experience-based perspective.
 
-We approach the problem from three distinct research directions, each providing a unique lens to interpret the data and inform the solution:
+***Hydraulic Model-Based Approach***: Here, we employ hydraulic modeling techniques to simulate water flow patterns and predict flood probabilities, offering an engineering-centric viewpoint for optimal embankment height determination.
 
-Historical Measurement-Based Approach: This approach utilizes historical measurement records to determine the embankment height, capitalizing on past data to inform future flood management strategies.
+***Economic Model-Based Approach***: This facet of our study integrates economic modeling to assess the financial implications of various embankment heights, ensuring our flood protection strategies are economically sustainable.
 
-Hydraulic Model-Based Approach: This approach uses hydraulic models to forecast water flow patterns and flood likelihood, facilitating the identification of the optimal embankment height from an engineering perspective.
-
-Economic Model-Based Approach: In this approach, we integrate economic models to analyze the costs associated with different embankment heights, aligning flood protection measures with economic realities.
-
-By traversing these three research paths, we aim to converge on a solution that considers multiple factors, thus ensuring a robust and comprehensive resolution to the challenge at hand.</div>
+Through the integration of these three distinct research methodologies, our project aims to arrive at a multi-faceted solution that encapsulates a broad range of considerations, thereby ensuring a robust and comprehensive approach to flood management.</div>
 <br>
 <center><img src="images/fiabilite.png"></center>
 <br>
