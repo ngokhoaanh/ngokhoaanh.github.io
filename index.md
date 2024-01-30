@@ -30,10 +30,9 @@ The project is not only a pursuit of the optimal classification model but also a
 
 <div style="text-align: justify">This project presents a thorough investigation into the dynamics of user interactions and server performance optimization by forecasting Wikipedia page traffic. The significance of this study lies in its dual focus: gaining insights into user behavior on Wikipedia and enhancing the server performance and availability of this vast online encyclopedia. Our objective is to achieve precise predictions of Wikipedia page traffic through the application of three distinct machine learning models, each contributing uniquely to our forecasting accuracy.
 
+
 ***ARIMA Model***: Specializing in autocorrelation, the ARIMA model leverages time-series data, enabling us to make more nuanced predictions.
-
 ***XGBoost***: As a decision-tree-based ensemble machine learning algorithm, XGBoost excels in identifying complex, non-linear patterns within the data.
-
 ***Random Forest Algorithm***: Comprising multiple decision trees, this model adds an extra dimension of accuracy to our predictions.
 
 This study provides an in-depth exploration of these machine learning models. We will demonstrate their individual capabilities and how their integrated application can significantly enhance the accuracy of traffic forecasting on Wikipedia.</div>
