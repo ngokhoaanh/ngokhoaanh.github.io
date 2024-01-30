@@ -62,7 +62,13 @@ Through the integration of these three distinct research methodologies, our proj
 ### Parallel Computing: Parallel Implementation of Conway's Game of Life
 
 
-<div style="text-align: justify">John Conway came up with the Game of Life in 1970. The game demonstrates the fact that some simple local rules can lead to interesting large-scale life behavior(birth, reproduction and death). The game is played in a 2 dimensional grid N x N, made of cells, that can be either alive, or dead. The game does not have any players, thus it does not require any input by the user. Each cell has at most 8 neighbours, that determine its state in the next generation. The re-formation of the grid from generation to generation is done simultaneously, meaning that each state in the next generation depends exclusively in the state of the cell and its neighbours. Our goal is to implement this game, using Parallel programming.</div>
+<div style="text-align: justify">This project delves into the fascinating world of parallel computing through the implementation of Conway's Game of Life, a classical example that illustrates how simple rules can lead to complex, life-like patterns. Originally conceived by John Conway in 1970, the Game of Life is a cellular automaton played on a two-dimensional N x N grid. Each cell within this grid, representing an individual unit of life, can exist in one of two states: alive or dead. The evolution of these cells, governed by a set of local rules, simulates the processes of birth, reproduction, and death, showcasing emergent large-scale behaviors from simple interactions.
+
+
+Unlike traditional games, Conway's Game of Life is an autonomous system that evolves without user input, with each cell's fate determined by its surrounding neighbors. The key feature of this project is the implementation of these evolutionary steps through parallel computing techniques. This approach involves simultaneous computation, where the state of each cell in the subsequent generation is determined independently, based on its current state and those of its eight neighbors.
+
+
+Our primary objective is to effectively implement Conway's Game of Life using parallel programming paradigms. This endeavor not only serves as a technical exercise in parallel computation but also provides insights into the broader implications of local interactions in complex systems. By leveraging parallel processing, we aim to enhance the efficiency and scalability of the simulation, offering a deeper understanding of the underlying dynamics of Conway's Game of Life.</div>
 <br>
 <center><img src="images/game_of_life.gif"></center>
 <br>
@@ -74,13 +80,13 @@ Through the integration of these three distinct research methodologies, our proj
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Projet_CQ.pdf)
 
 
-<div style="text-align: justify">In this project, we delve into the world of manufacturing with a focus on improving process efficiency through statistical quality control. The objective is to employ robust statistical methods and adequacy tests, thus ensuring processes are streamlined, waste is minimized, and a higher proportion of specification-conforming products are produced.
+<div style="text-align: justify">This project represents a rigorous exploration into the realm of manufacturing, with a specialized focus on augmenting process efficiency through the implementation of statistical quality control techniques. The core aim is to apply sophisticated statistical methodologies and adequacy tests to streamline manufacturing processes, thereby reducing waste and increasing the yield of products that meet specified quality standards.
 
-Our approach involves the construction and utilization of control charts, including the CUSUM (Cumulative Sum Control Chart) and EWMA (Exponentially Weighted Moving Average). These powerful statistical tools allow us to precisely detect moments of rupture in the process and accurately identify false alarm rates.
+Our methodology is centered around the development and application of advanced control charts, namely the CUSUM (Cumulative Sum Control Chart) and EWMA (Exponentially Weighted Moving Average). These robust statistical instruments are pivotal in our ability to precisely identify process irregularities and effectively monitor false alarm rates.
 
-The CUSUM chart is particularly effective at identifying small shifts from the process target over time, while the EWMA chart is adept at detecting larger, sudden shifts. Together, they provide a comprehensive toolset for monitoring process variability and maintaining control.
+The CUSUM chart is particularly tailored for pinpointing subtle, incremental deviations from the set process targets over time. In contrast, the EWMA chart excels in detecting more abrupt and significant shifts. This dual-chart strategy equips us with a comprehensive toolkit for scrutinizing process variability and ensuring consistent process control.
 
-The results from this project not only optimize the manufacturing process but also contribute to an overall reduction in waste. The insights and techniques gleaned from this work prove invaluable in promoting more efficient, sustainable, and profitable manufacturing practices.</div>
+The outcomes of this project are expected to substantially refine manufacturing processes. By applying these advanced statistical control methods, we anticipate not only an optimization of the manufacturing workflow but also a significant contribution towards reducing operational waste. This project stands to deliver critical insights and methodologies, fostering more efficient, sustainable, and economically viable manufacturing operations.</div>
 <br>
 <center><img src="images/controle.png"/></center>
 <br>
