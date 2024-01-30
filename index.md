@@ -28,9 +28,7 @@ The project is not only a pursuit of the optimal classification model but also a
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Projet_Stat_Prevision.html)
 
 
-<div style="text-align: justify">This project presents a thorough investigation into the dynamics of user interactions and server performance optimization by forecasting Wikipedia page traffic. The significance of this study lies in its dual focus: gaining insights into user behavior on Wikipedia and enhancing the server performance and availability of this vast online encyclopedia.
-
-Our objective is to achieve precise predictions of Wikipedia page traffic through the application of three distinct machine learning models, each contributing uniquely to our forecasting accuracy.
+<div style="text-align: justify">This project presents a thorough investigation into the dynamics of user interactions and server performance optimization by forecasting Wikipedia page traffic. The significance of this study lies in its dual focus: gaining insights into user behavior on Wikipedia and enhancing the server performance and availability of this vast online encyclopedia. Our objective is to achieve precise predictions of Wikipedia page traffic through the application of three distinct machine learning models, each contributing uniquely to our forecasting accuracy.
 
 ***ARIMA Model***: Specializing in autocorrelation, the ARIMA model leverages time-series data, enabling us to make more nuanced predictions.
 
