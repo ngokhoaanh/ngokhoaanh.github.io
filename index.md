@@ -9,13 +9,13 @@ Complete projects for the  [***M2 ISDS: Ingénieur Statistique et Data Science**
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/NGO_LAFFINEUR.html)
 
-<div style="text-align: justify">In this exciting project, we embark on a journey through the intricacies of diabetes classification using Machine Learning. We kick-off by delving into a detailed exploration of the project framework, the nature of the data at our disposal, and the variables that make up our database.
+<div style="text-align: justify">In this comprehensive project, our objective is to classify diabetes using advanced Machine Learning techniques. The project initiates with a thorough analysis of the dataset, emphasizing the understanding of key variables and their relationships. This phase includes detailed data visualization and correlation studies to identify patterns and interactions critical for diabetes classification.
 
-Our examination is accompanied by an in-depth data visualization and a study of their correlation. The goal is to unravel the subtle links between variables, understand their interactions, and identify potential patterns.
+Subsequently, the project incorporates unsupervised learning, specifically using a K-means clustering approach, to discern distinct data groups. This methodology aims to enhance our analytical perspective and contribute to more nuanced data interpretation.
 
-Next, we venture into the realm of unsupervised learning, using a K-means type clustering approach. Our aim will be to determine whether we can distinguish distinct groups within our data, thereby offering new perspectives for our analysis.
+The pivotal aspect of the project involves the systematic training and evaluation of various classifiers. These include Decision Trees, Logistic Regression, Random Forest, MLP, SVM, QDA, LightGBM, Gradient Boosting, and Neural Networks. Our approach is methodical, comparing each model's performance to ascertain the most effective algorithm for our specific dataset.
 
-Finally, we dive into the heart of the matter, the training of various classifiers. We will compare and evaluate a variety of algorithms, including Decision Tree, Logistic Regression, Random Forest, MLP, SVM, QDA, LightGBM, Gradient Boosting, and Neural Network. Our ultimate goal is to select the best-performing model for our problem while learning and discovering along the way.</div>
+The project is not only a pursuit of the optimal classification model but also an endeavor in deep learning and discovery in the field of Machine Learning.</div>
 
 <br>
 <center><img src="images/diabetes.png"/></center>
